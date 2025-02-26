@@ -1,8 +1,8 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Just In Case
+description: A Resource Hub for Feds and Associated Folk
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://git-sci.github.io/
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  GitHub Repository: https://github.com/git-sci/git-sci.github.io
