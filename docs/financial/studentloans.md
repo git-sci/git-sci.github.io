@@ -1,6 +1,8 @@
 ---
 title: Student Loans
 layout: default
+parent: Financial
+nav_order: 2
 ---
 
 {: .no_toc }

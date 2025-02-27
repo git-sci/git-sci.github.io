@@ -1,6 +1,8 @@
 ---
 title: Survival Tips
 layout: default
+parent: Financial
+nav_order: 2
 ---
 
 {: .no_toc }
