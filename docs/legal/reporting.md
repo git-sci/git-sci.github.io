@@ -1,7 +1,10 @@
 ---
 title: Whistleblowers and other Reporting
 layout: default
+parent: Legal
+nav_order: 2
 ---
+# Whistleblowers and other Reporting
 
 {: .no_toc }
 

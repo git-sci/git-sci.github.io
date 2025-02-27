@@ -1,7 +1,10 @@
 ---
 title: Return to Office
 layout: default
+parent: Other Links and Resources
+nav_order: 2
 ---
+# Return to *Office*
 
 {: .no_toc }
 

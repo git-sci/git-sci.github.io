@@ -1,8 +1,10 @@
 ---
 title: EAP
 layout: default
+parent: Wellness and Health
+nav_order: 2
 ---
-
+# EAP
 {: .no_toc }
 
 ---

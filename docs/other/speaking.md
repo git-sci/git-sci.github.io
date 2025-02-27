@@ -1,7 +1,10 @@
 ---
 title: Speaking Up and Protests
 layout: default
+parent: Other Links and Resources
+nav_order: 2
 ---
+# Speaking Up and Protests
 
 {: .no_toc }
 

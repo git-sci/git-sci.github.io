@@ -1,8 +1,10 @@
 ---
 title: Physical Go Bag
 layout: default
+parent: Go Bags
+nav_order: 3
 ---
-
+# Physical Bags
 {: .no_toc }
 
 ---

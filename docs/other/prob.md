@@ -1,7 +1,10 @@
 ---
 title: What is a probationary period?
 layout: default
+parent: Other Links and Resources
+nav_order: 2
 ---
+# What is a probationary period?
 
 {: .no_toc }
 

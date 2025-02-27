@@ -1,6 +1,7 @@
 ---
 title: If you are terminated
 layout: default
+nav_order: 1
 ---
 
 # If you are terminated

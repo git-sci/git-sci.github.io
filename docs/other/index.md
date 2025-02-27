@@ -1,9 +1,10 @@
 ---
 title: Other links and resources
 layout: default
+nav_order: 1
 ---
+# Other links and resources
 
-{: .no_toc }
 
 ---
 Many groups and teams are assembling resources! A list is growing under [Resource Hubs](https://git-sci.github.io/)!

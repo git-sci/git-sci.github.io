@@ -1,8 +1,10 @@
 ---
 title: Taking Care
 layout: default
+parent: Preparing
+nav_order: 2
 ---
-
+# Taking Care
 {: .no_toc }
 
 ---

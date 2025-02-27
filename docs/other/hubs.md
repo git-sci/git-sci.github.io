@@ -1,7 +1,10 @@
 ---
 title: Resource Hubs
 layout: default
+parent: Other Links and Resources
+nav_order: 2
 ---
+# Resource Hubs
 
 {: .no_toc }
 

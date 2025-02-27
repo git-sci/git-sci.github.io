@@ -4,11 +4,12 @@ layout: default
 parent: Financial
 nav_order: 2
 ---
+# Survival Tips 
+## For if you lose your job and you’re panicking 
 
 {: .no_toc }
 
 ---
-## Survival Tips if you lose your job and you're panicking
 
 - *Make sure you get paid out* any annual leave and anything you paid into the pension. Although, there is maybe the option to leave the pension funds there to keep your ‘service’ time in place in case you ever return to federal service. Weigh your options.
 - *Apply for unemployment, food stamps, and Medicaid ASAP*. Food stamps too, if possible. *Don’t delay*; the approval process for unemployment and food stamps can be a hassle. Apply for SNAP the day you’re terminated. Every day counts towards those and many other benefits. That falls under Public Assistance/TANF.

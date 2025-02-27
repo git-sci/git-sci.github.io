@@ -1,8 +1,11 @@
 ---
 title: Trackers and Dashboards
 layout: default
+nav_order: 1
 ---
-<iframe src="https://civictechstrong.org/federal-probationary-term-employee-firings-tracker/" width="100%" height="800px"></iframe>
+# Trackers and Dashboards
+
+<iframe src="https://civictechstrong.org/federal-probationary-term-employee-firings-tracker/" width="100%" height="1200px"></iframe>
 
 
 ## Trackers

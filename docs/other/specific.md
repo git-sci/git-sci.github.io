@@ -1,7 +1,10 @@
 ---
 title: Agency or Office Specific Resources
 layout: default
+parent: Other Links and Resources
+nav_order: 2
 ---
+# Agency or Office Specific Resources
 
 {: .no_toc }
 

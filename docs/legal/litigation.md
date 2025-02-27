@@ -1,7 +1,10 @@
 ---
 title: Litigation
 layout: default
+parent: Legal
+nav_order: 2
 ---
+# Litigation
 
 {: .no_toc }
 

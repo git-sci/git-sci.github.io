@@ -1,6 +1,6 @@
 ---
 title: Home
-layout: defaulttop
+layout: top
 nav_order: 1
 ---
 
@@ -8,7 +8,7 @@ nav_order: 1
 
 As things evolve for the federal workforce and in scientific workplaces, this is a set of resources compiled from various locations across the web. 
 
-There is no affiliation with or endorsement of any programs or resources in this post. This is not financial, medical, or legal advice. This is a bank of resource information. 
+There is no affiliation with or endorsement of any programs or resources in this post. This is not financial, medical, or legal advice. This is a bank of resource information. Information included may go out of date, and may change. 
 
 **RIF** process info: [OPM page](https://www.opm.gov/policy-data-oversight/workforce-restructuring/reductions-in-force/workforce_reshaping.pdf)
 

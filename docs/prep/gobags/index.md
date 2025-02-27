@@ -1,9 +1,10 @@
 ---
-title: Go Bags!
+title: Go Bags
 layout: default
+parent: Preparing
+nav_order: 2
 ---
-
-{: .no_toc }
+# Go Bags!
 
 ---
 If terminated, access to digital systems may be eliminated swiftly. This makes prepping virtual ‘go bags’ essential!

@@ -1,7 +1,10 @@
 ---
 title: Templates and Records Practice
 layout: default
+parent: Legal
+nav_order: 2
 ---
+# Templates and Records Practice
 
 {: .no_toc }
 

@@ -1,8 +1,10 @@
 ---
 title: Things you can do
 layout: default
+parent: Preparing
+nav_order: 2
 ---
-
+# Things You Can Do
 {: .no_toc }
 
 ---

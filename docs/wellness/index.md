@@ -1,9 +1,10 @@
 ---
 title: Wellness and Health
 layout: default
+nav_order: 1
 ---
+# Wellness and Health
 
-{: .no_toc }
 
 ---
 

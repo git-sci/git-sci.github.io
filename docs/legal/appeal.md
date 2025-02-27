@@ -1,7 +1,10 @@
 ---
 title: Appeal Information
 layout: default
+parent: Legal
+nav_order: 2
 ---
+# Appeal Information
 
 {: .no_toc }
 

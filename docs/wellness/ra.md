@@ -1,7 +1,10 @@
 ---
 title: Reasonable Accommodation
 layout: default
+parent: Wellness and Health
+nav_order: 2
 ---
+# Reasonable Accommodation
 
 {: .no_toc }
 

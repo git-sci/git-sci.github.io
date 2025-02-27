@@ -1,8 +1,10 @@
 ---
 title: Virtual Go Bag
 layout: default
+parent: Go Bags
+nav_order: 3
 ---
-
+# Virtual Bags
 {: .no_toc }
 This is like an ‘Employment Go Bag’. The American Foreign Service Association (AFSA) has compiled a checklist and resources to help their members stay prepared for the unexpected. They aim to maintain the resource on their website and updated as conditions evolve. This was pulled in mid Feb 2025, just in case. [https://afsa.org/virtual-go-bag](https://afsa.org/virtual-go-bag)
 
