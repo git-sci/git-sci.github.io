@@ -3,18 +3,10 @@ title: Assistance
 layout: default
 parent: Financial
 nav_order: 2
+toc_placement: top 
 ---
 
 
-{: .no_toc }
-
-## Table of contents
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
-
----
 ## Financial Assistance
 
 ***Federal Employee Education & Assistance Fund*** [https://feea.org](https://feea.org)
