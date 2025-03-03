@@ -1,7 +1,7 @@
 ---
 title: Job Resources
 layout: default
-nav_order: 1
+nav_order: 9
 ---
 
 # Job Resources

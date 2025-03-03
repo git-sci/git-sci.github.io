@@ -1,7 +1,7 @@
 ---
 title: Other links and resources
 layout: default
-nav_order: 1
+nav_order: 8
 ---
 # Other links and resources
 
