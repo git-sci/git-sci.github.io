@@ -16,6 +16,9 @@ Note:  *Protect yourself and protect others first.  If you feel safe enough in y
 1. **Hatch act:** Federal Employees may ***not*** be candidates for *partisan* public office, use their official position to influence election results, use an official social media account to engage in political activity, engage in political activity in government buildings or while on duty (including using government e-mail systems to distribute political messages or posting on social media), or collect, solicit or receive any financial contributions from the general public through written, oral, email, or social media communications. [Read up on the dos and don’ts here.](https://apwu.org/hatch-act-election)
 2. **Strikes:** 5 U.S.C. §7311, specifies that federal employees may not participate in a strike, assert the right to strike, or even belong to a union that “asserts the right to strike against the government of the United States.” Driving the point home, 18 U.S.C. §1918 makes it a felony to strike against the United States or belong to a union that asserts the right to strike against the United States. What’s more, the Office of Personnel Management can declare an individual who participates in a strike unsuitable for federal employment, *permanently*. Interesting read: [govexec.com](https://www.govexec.com/management/2019/01/why-feds-dont-strike/154438/)
 
+## Speaking to the Press
+There can be impacts associated with speaking out. It is important to consider 1. the Hatch Act, 2. how it may impact YOU and your future. Some guidance has been assembled [here](https://docs.google.com/document/d/1w11d9jMSE2Y0HfMay3lpi7if1yyGMqPZI4FXrs5V5co/edit?tab=t.0#heading=h.3qg4u7if3q5b).
+
 ## Protest
 
 - Express solidarity with your co-workers.  A lot of unions are asking members to wear flag colors work or other similar actions.  Combating fear and building community with your co-workers is a form of protest.  Nobody should feel alone while we are all being attacked.

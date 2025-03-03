@@ -5,10 +5,15 @@ nav_order: 2
 ---
 # Trackers and Dashboards
 
-<iframe src="https://civictechstrong.org/federal-probationary-term-employee-firings-tracker/" width="100%" height="1200px"></iframe>
+<iframe src="https://airtable.com/app1PaujS9zxVGUZ4/shrJatoY0sANFEG3C/tblh1mdoNgJMekQjB?viewControls=on" width="100%" height="1200px"></iframe>
 
+Source: Roger Lee's [Layoff Tracker](https://layoffs.fyi/)
 
 ## Trackers
+Story collections: [Trump Costs America](https://trumpcostsamerica.com/)
+
+Terminated Contracts: [DOGE Terminated Contract Tracker](https://app.g2xchange.com/doge-tracker)
+
 NYTimes Tracking: [Trump Admin Lawsuits](https://www.nytimes.com/interactive/2025/us/trump-administration-lawsuits.html?unlocked_article_code=1.yU4.uAgl.OS8TFYSmCRs7&smid=url-share)
 
 NYTimes Tracking [Firings and Agency Cuts](https://www.nytimes.com/interactive/2025/02/11/us/politics/trump-musk-doge-federal-workers.html?unlocked_article_code=1.yU4.vBm7.IuewBpW-GaTk&smid=url-share)
@@ -22,6 +27,8 @@ JustSecurity [Tracking Legal Challenges](https://www.justsecurity.org/107087/tra
 Democracy Docket [Trump Accountability](https://www.democracydocket.com/cases/topic/trump-accountability/)
 
 Federal News Network [Tracking Layoffs and Firings](https://federalnewsnetwork.com/agency-oversight/2025/02/a-comprehensive-look-at-doges-firings-and-layoffs-so-far/)
+
+The CivicTech Strong Dashboard was previously shown above, but has been taken down, possibly for reworking. Linked here: [CivicTech Strong](https://www.civictechstrong.org/)
 
 ## Other Tracking/Data-Driven Stories
 
